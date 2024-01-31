@@ -1,0 +1,28 @@
+* {
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    ;
+}
+
+h2 {
+    text-align: center;
+    font-size: 5rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    border: .5rem solid black;
+}
+
+button {
+    padding: 20px;
+    ;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
